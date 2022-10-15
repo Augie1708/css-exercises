@@ -37,12 +37,49 @@ button {
   padding: 8px 24px;
 }
 
+
 a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
 }
 
+
+/*MY ANSWER*/
+
 ul {
   list-style-type: none;
+
+  display: flex;
+  gap: 20px;
 }
+
+.header {
+  display: flex;
+  flex-direction: row;
+  flex-flow: row nowrap;
+  gap: 10px;
+  padding: 5px;
+}
+
+.profile-image {
+  align-self:center;
+}
+
+button {
+  margin-left: auto;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+}
+
+
+
+
+
+
+
+
+
