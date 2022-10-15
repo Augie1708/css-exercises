@@ -24,3 +24,20 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+/*MY SOLUTION*/
+body {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0px;
+}
+
+.barberry, .chili, .pepper, .saffron {
+  max-width: 200px;
+}
+
