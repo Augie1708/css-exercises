@@ -31,13 +31,20 @@ body {
   text-align: center;
 }
 
+.title {
+  margin-bottom: 32px;
+}
+
 .container {
   display: flex;
   justify-content: space-between;
   margin: 30px 0px;
+  padding: 0px 100px; 
+  gap: 52px;
 }
 
 .barberry, .chili, .pepper, .saffron {
   max-width: 200px;
+  
 }
 
