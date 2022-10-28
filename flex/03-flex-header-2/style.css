@@ -58,8 +58,9 @@ ul {
   display: flex;
   flex-direction: row;
   flex-flow: row nowrap;
-  gap: 10px;
-  padding: 5px;
+  gap: 16px;
+  padding: 8px;
+  align-items: center;
 }
 
 .profile-image {
@@ -72,7 +73,8 @@ button {
 
 ul {
   display: flex;
-  gap: 20px;
+  padding-left: 0px;
+  gap: 16px;
 }
 
 
