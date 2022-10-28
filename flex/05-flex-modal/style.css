@@ -74,6 +74,7 @@ button.cancel {
 
 #left {
   padding:10px 0px 10px 10px;
+  margin: 5px;
 }
 
 #right {
@@ -89,7 +90,13 @@ button.cancel {
   font-weight: 900;
   font-size: larger;
   align-items: center;
+  margin: 5px 5px 0 0;
   
+}
+
+.buttons {
+  margin-bottom: 5px;
+  padding: 0px;
 }
 
 
